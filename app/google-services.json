@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "342737707427",
+    "firebase_url": "https://motherfucker1.firebaseio.com",
+    "project_id": "motherfucker1",
+    "storage_bucket": "motherfucker1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342737707427:android:4f8c28c8385d363d",
+        "android_client_info": {
+          "package_name": "com.lokesh.fuckthatshit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342737707427-6n8gfmtq0jeovkbvclm8m9is929vt7gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaNnk3U7dzB1K91SN2zzCk4ZJobVZxK5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
